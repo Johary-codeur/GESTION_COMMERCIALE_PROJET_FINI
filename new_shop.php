@@ -5,7 +5,7 @@
 	
  ?>
 
-<h1>NEW SHOP </h1>
+<h1>NEW SHOP</h1>
 
 <div class="container  well">
 
